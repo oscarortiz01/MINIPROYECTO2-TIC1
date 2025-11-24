@@ -4,7 +4,7 @@ Este repositorio contiene todos los entregables para el MiniProyecto 2
 
 Contenido del Repositorio
 
-* [Mini_Proyecto_2.pdf](/Mini_Proyecto_2.pdf): El informe completo del proyecto en formato PDF.
+* [Mini_proyecto_2.pdf](/Mini_proyecto_2.pdf): El informe completo del proyecto en formato PDF.
 * [simon.py](/simon.py): Minijuego físico de memoria "Simón Dice" (botones/audio).
 * [supersonico.py](/supersonico.py): Minijuego físico de reflejos (sensor ultrasónico HC-SR04).
 * [flappy_pkmn.py](/flappy_pkmn.py): Minijuego virtual de Pokémon con estilo "Flappy Bird".

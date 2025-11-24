@@ -2,7 +2,7 @@
 
 Este repositorio contiene todos los entregables para el MiniProyecto 2
 
-## Contenido del Repositorio
+Contenido del Repositorio
 
 * [Mini_Proyecto_2.pdf](/Mini_Proyecto_2.pdf): El informe completo del proyecto en formato PDF.
 * [simon.py](/simon.py): Minijuego físico de memoria "Simón Dice" (botones/audio).
@@ -18,13 +18,13 @@ Este repositorio contiene todos los entregables para el MiniProyecto 2
 * Carpeta `sprites/`: Gráficos para el minijuego Flappy Pokémon.
 * Carpeta `img/`: Recursos gráficos para el minijuego Lluvia de Pokémon.
 
-## Video de Demostración
+# Video de Demostración
 
 En el siguiente enlace se encuentra el video demostrativo donde se enseña el funcionamiento de los 4 minijuegos y el uso de la Pokédex con su hardware asociado.
 
-* **Video de Demostración en YouTube:**
-    [https://youtu.be/PZ5Veb9_Mdw)
+⦁ Video de Demostración en YouTube
+  https://youtu.be/PZ5Veb9_Mdw
 
-## Integrantes
+Integrantes:
 * Oscar Ortiz Molina
 * Joaquín Mardones Gallegos
